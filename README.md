@@ -24,7 +24,7 @@
 
 * A rough hierarchy of the files can be seen below (A --> B implies that B is dependent on A)
 <p align="center">
-  <img height="600" src="graph3.svg">
+  <img src="graph3.svg">
 </p>
 
 ###### Note: This library is under development and many modules may be currently just stubs
